@@ -24,7 +24,7 @@ Candidates:
 -	Diana DeGette
 -	Raymon Anthony Doane
 
-	Results for each Candidate:
+Results for each Candidate:
 -	Charles Casper Stockham received 85,213 votes: 23% of total votes.
 -	Diana DeGette received 272,892 votes: 73.8% of total votes.
 -	Raymon Anthony Doane received 11,606 votes: 3.1% of total votes.
